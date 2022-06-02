@@ -24,10 +24,10 @@ Normalmente, la necesidad por los patrones surge cuando la gente elige un lengua
 
 Por ejemplo, el patrón Strategy puede implementarse con una simple función anónima (lambda) en la mayoría de lenguajes de programación modernos.
 
-Soluciones ineficientes
+#### Soluciones ineficientes
 Los patrones intentan sistematizar soluciones cuyo uso ya es generalizado. Esta unificación es vista por muchos como un dogma, e implementan los patrones “al pie de la letra”, sin adaptarlos al contexto del proyecto particular.
 
-Uso injustificado
+#### Uso injustificado
 Si lo único que tienes es un martillo, todo te parecerá un clavo.
 
 Este es el problema que persigue a muchos principiantes que acaban de familiarizarse con los patrones. Una vez que aprenden sobre patrones, intentan aplicarlos en todas partes, incluso en situaciones en las que un código más simple funcionaría perfectamente bien.
@@ -53,5 +53,6 @@ TODO
 
 #### Patrones estructurales
 TODO
+
 
 Fuente: https://refactoring.guru/es/design-patterns
