@@ -49,7 +49,7 @@ Los patrones de comportamiento se encargan de una comunicación efectiva y la as
 
 
 #### Patrones creacionales
-TODO
+Son aquellos patrones con los cuales se crean los objetos.
 
 #### Patrones estructurales
 TODO
