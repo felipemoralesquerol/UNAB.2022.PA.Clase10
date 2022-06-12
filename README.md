@@ -1,6 +1,5 @@
 # UNAB - Programación Avanzada
 
-
 # Clase N. 10 - Introducción a Patrones de Diseño
 
 ## Patrones de Diseño
