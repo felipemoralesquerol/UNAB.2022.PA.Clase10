@@ -1,7 +1,6 @@
 from __future__ import annotations
 from abc import ABC, abstractmethod
 
-
 class Creator(ABC):
     """
     The Creator class declares the factory method that is supposed to return an
@@ -92,7 +91,6 @@ def client_code(creator: Creator) -> None:
 
     print(f"Client: I'm not aware of the creator's class, but it still works.\n"
           f"{creator.some_operation()}", end="")
-
 
 if __name__ == "__main__":
     print("App: Launched with the ConcreteCreator1.")
